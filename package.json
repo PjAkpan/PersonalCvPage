@@ -2,7 +2,12 @@
   "name": "personalcvpage",
   "version": "1.0.0",
   "description": "This is my second Node",
-  "main": "index.html",
+  "main": "index.js",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {}
+  }
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,4 +21,6 @@
     "url": "https://github.com/PjAkpan/PersonalCvPage/issues"
   },
   "homepage": "https://github.com/PjAkpan/PersonalCvPage#readme"
+  {
+  
 }
