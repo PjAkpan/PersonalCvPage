@@ -1,0 +1,19 @@
+{
+  "name": "personalcvpage",
+  "version": "1.0.0",
+  "description": "This is my second Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PjAkpan/PersonalCvPage.git"
+  },
+  "author": "Peace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PjAkpan/PersonalCvPage/issues"
+  },
+  "homepage": "https://github.com/PjAkpan/PersonalCvPage#readme"
+}
